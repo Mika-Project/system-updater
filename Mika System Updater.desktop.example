@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Mika System Updater
+Exec=konsole --hold -e pathtoscript
+Type=Application
+Icon=/path/to/icon.png
+Categories=Utility;
